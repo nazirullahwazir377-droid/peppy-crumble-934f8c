@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "daily task wazir - Ultimate Alarm",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "wazir  - task",
+  "start_url": "/",
+  "theme_color": "#17438e",
+  "id": "dailytasks.wazir.com",
+  "description": "Premium daily task manager with alarm, Azan ringtone, calendar and status tracking for Dubai and worldwide. Manage your daily tasks with Islamic touch, reminders, and completion tracking"
+}
